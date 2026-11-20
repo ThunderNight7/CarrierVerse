@@ -85,6 +85,7 @@ const scriptVinotinto = `
     let tema = detectarTema();
     let factor = hashFactor();
     let ultimoScroll = 0, impulso = 0, scrollNorm = 0;
+    let animacionActiva = true;
     const SCROLL_ELS = () => [document.scrollingElement, document.documentElement, document.body, document.getElementById("quartz-body"), document.querySelector(".center"), document.querySelector(".page")].filter(Boolean);
 
     function actualizarScroll() {
@@ -97,7 +98,11 @@ const scriptVinotinto = `
       impulso = Math.max(-28, Math.min(28, impulso + (cur - ultimoScroll) * 0.14));
       ultimoScroll = cur;
       scrollNorm = max > 0 ? Math.min(Math.max(cur / max, 0), 1) : 0;
-      document.body.style.setProperty("--vinotinto-progreso", Math.min(scrollNorm * factor, 1).toFixed(4));
+      if (animacionActiva) {
+        document.body.style.setProperty("--vinotinto-progreso", Math.min(scrollNorm * factor, 1).toFixed(4));
+      } else {
+        document.body.style.setProperty("--vinotinto-progreso", "0");
+      }
     }
 
     let canvas, ctx, width = 0, height = 0;
@@ -143,6 +148,55 @@ const scriptVinotinto = `
         (document.getElementById("quartz-body") || document.body).prepend(el);
       }
       if (el instanceof HTMLCanvasElement) { canvas = el; ctx = canvas.getContext("2d"); resize(); }
+    }
+
+    function actualizarBotonAnimacionUI() {
+      const btn = document.getElementById("btn-toggle-animacion");
+      if (!btn) return;
+      btn.setAttribute("aria-pressed", String(animacionActiva));
+      btn.textContent = animacionActiva ? "Animación: ON" : "Animación: OFF";
+      btn.style.borderColor = animacionActiva ? "rgba(255, 77, 109, 0.9)" : "rgba(140, 135, 126, 0.45)";
+    }
+
+    function setAnimacionesActivas(activa) {
+      animacionActiva = Boolean(activa);
+      document.body.classList.toggle("animaciones-activas", animacionActiva);
+      impulso = 0;
+      ultimoScroll = window.scrollY || window.pageYOffset || 0;
+      if (animacionActiva) {
+        asegurarCanvas();
+        if (!ascuas.length) poblar();
+        actualizarScroll();
+      } else {
+        document.body.style.setProperty("--vinotinto-progreso", "0");
+        if (ctx && width > 0 && height > 0) {
+          ctx.clearRect(0, 0, width, height);
+        }
+      }
+      actualizarBotonAnimacionUI();
+    }
+
+    function asegurarBotonAnimacion() {
+      let btn = document.getElementById("btn-toggle-animacion");
+      if (!btn) {
+        btn = document.createElement("button");
+        btn.id = "btn-toggle-animacion";
+        btn.type = "button";
+        btn.setAttribute("aria-label", "Activar o desactivar animación de fondo");
+        btn.style.cssText =
+          "position:fixed;bottom:18px;right:20px;z-index:1200;padding:8px 13px;border-radius:999px;border:1.5px solid rgba(140,135,126,0.45);font-size:0.82rem;font-weight:600;line-height:1.1;cursor:pointer;display:inline-flex;align-items:center;gap:6px;box-shadow:0 4px 14px rgba(0,0,0,0.25);backdrop-filter:blur(6px);transition:transform 0.16s ease,border-color 0.16s ease,background-color 0.16s ease;";
+
+        btn.addEventListener("click", (ev) => {
+          ev.preventDefault();
+          ev.stopPropagation();
+          setAnimacionesActivas(!animacionActiva);
+        });
+
+        (document.getElementById("quartz-body") || document.body).append(btn);
+      }
+
+      document.body.classList.toggle("animaciones-activas", animacionActiva);
+      actualizarBotonAnimacionUI();
     }
 
     function forzarExploradorEnV() {
@@ -243,9 +297,11 @@ const scriptVinotinto = `
     function syncTodo() {
       tema = detectarTema();
       document.body.setAttribute("data-tema-pagina", tema);
+      document.body.classList.toggle("animaciones-activas", animacionActiva);
       factor = hashFactor();
       asegurarCanvas();
       asegurarBotonHamburguesa();
+      asegurarBotonAnimacion();
       forzarExploradorEnV();
       persistirYRestaurarBuscador();
       actualizarScroll();
@@ -258,7 +314,11 @@ const scriptVinotinto = `
     document.addEventListener("mouseleave", () => { cursor.activo = false; });
     document.addEventListener("scroll", actualizarScroll, { passive: true, capture: true });
     window.addEventListener("resize", () => { actualizarScroll(); resize(); }, { passive: true });
-    document.addEventListener("nav", () => { syncTodo(); setTimeout(syncTodo, 60); });
+    document.addEventListener("nav", () => {
+      syncTodo();
+      setTimeout(syncTodo, 60);
+      setTimeout(syncTodo, 250);
+    });
 
     poblar();
     syncTodo();
@@ -350,6 +410,11 @@ const scriptVinotinto = `
       const dt = Math.min((ahora - ultimoT) / 1000, 0.05); ultimoT = ahora;
       if (!canvas || !canvas.isConnected) asegurarCanvas();
       if (ctx && width > 0 && height > 0) {
+        if (!animacionActiva) {
+          ctx.clearRect(0, 0, width, height);
+          requestAnimationFrame(frame);
+          return;
+        }
         ctx.clearRect(0, 0, width, height);
         const d = TEMA_DATA[document.body.getAttribute("data-tema-pagina") || tema] || TEMA_DATA.fuego;
         const tGlobal = ahora / 1000;

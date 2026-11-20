@@ -51,15 +51,15 @@ html[saved-theme="dark"] body {
   --negro-carbon: #0c0b0d;
   --vinotinto-suave: #3b0d16;
   --vinotinto-intenso: #6e1423;
-  --paralaje-y: calc(var(--vinotinto-progreso) * -28%);
+  --paralaje-y: 0px;
 
   position: relative;
   min-height: 100vh;
   background-color: var(--negro-carbon);
   background-image: linear-gradient(to bottom, var(--negro-carbon) 0%, var(--negro-carbon) 45%, var(--vinotinto-suave) 78%, var(--vinotinto-intenso) 100%);
-  background-size: 100% 240%;
-  background-position: center calc(var(--vinotinto-progreso) * 100%);
-  background-attachment: fixed;
+  background-size: 100% 100%;
+  background-position: center top;
+  background-attachment: scroll;
 
   &::before {
     content: "";
@@ -70,9 +70,8 @@ html[saved-theme="dark"] body {
     mix-blend-mode: screen;
     @include chispas-fondo(rgba(255, 110, 125, 0.92), rgba(225, 38, 68, 0.42));
     background-size: 100% 100%;
-    background-position: 0 var(--paralaje-y);
-    will-change: transform, opacity, background-position;
-    animation: ascuasTitileo 3.8s ease-in-out infinite alternate;
+    background-position: 0 0;
+    animation: none;
   }
 
   @each $tema, $cfg in $temas {
@@ -80,11 +79,33 @@ html[saved-theme="dark"] body {
       --negro-carbon: #{list.nth($cfg, 1)};
       --vinotinto-suave: #{list.nth($cfg, 2)};
       --vinotinto-intenso: #{list.nth($cfg, 3)};
-      --paralaje-y: calc(var(--vinotinto-progreso) * #{list.nth($cfg, 4)});
 
       &::before {
         @include chispas-fondo(list.nth($cfg, 5), list.nth($cfg, 6));
-        background-position: #{list.nth($cfg, 7)} var(--paralaje-y);
+        background-position: 0 0;
+      }
+    }
+  }
+
+  &.animaciones-activas {
+    --paralaje-y: calc(var(--vinotinto-progreso) * -28%);
+    background-size: 100% 240%;
+    background-position: center calc(var(--vinotinto-progreso) * 100%);
+    background-attachment: fixed;
+
+    &::before {
+      background-position: 0 var(--paralaje-y);
+      will-change: transform, opacity, background-position;
+      animation: ascuasTitileo 3.8s ease-in-out infinite alternate;
+    }
+
+    @each $tema, $cfg in $temas {
+      &[data-tema-pagina="#{$tema}"] {
+        --paralaje-y: calc(var(--vinotinto-progreso) * #{list.nth($cfg, 4)});
+
+        &::before {
+          background-position: #{list.nth($cfg, 7)} var(--paralaje-y);
+        }
       }
     }
   }
@@ -111,7 +132,7 @@ html[saved-theme="light"] body {
   background-image: linear-gradient(to bottom, var(--pastel-top) 0%, var(--pastel-mid) 45%, var(--blanco-mate) 100%) !important;
   background-repeat: no-repeat !important;
   background-size: 100% 260px !important;
-  background-position: center calc(var(--vinotinto-progreso, 0) * -90px) !important;
+  background-position: center top !important;
   background-attachment: scroll !important;
 
   &::before { display: none; }
@@ -122,10 +143,15 @@ html[saved-theme="light"] body {
       --pastel-mid: #{list.nth($cfg, 9)};
     }
   }
+
+  &.animaciones-activas {
+    background-position: center calc(var(--vinotinto-progreso, 0) * -90px) !important;
+  }
 }
 
 // --- CANVAS (ASCUAS EN DARK / OLAS + ESTRELLAS PS3 EN LIGHT) ---
 #ascuas-canvas {
+  display: none;
   position: fixed;
   inset: 0;
   width: 100%;
@@ -133,8 +159,36 @@ html[saved-theme="light"] body {
   pointer-events: none;
   z-index: 1;
 }
+
+body.animaciones-activas #ascuas-canvas {
+  display: block;
+}
+
 html[saved-theme="dark"] #ascuas-canvas { mix-blend-mode: screen; }
 html[saved-theme="light"] #ascuas-canvas { mix-blend-mode: normal; opacity: 0.88; }
+
+// --- BOTÓN ANIMACIÓN ON/OFF ---
+#btn-toggle-animacion {
+  &:hover {
+    transform: translateY(-1px);
+  }
+
+  &:active {
+    transform: scale(0.96);
+  }
+}
+
+html[saved-theme="dark"] #btn-toggle-animacion {
+  background: rgba(20, 18, 22, 0.88) !important;
+  color: #f4f1f3 !important;
+  border-color: rgba(255, 77, 109, 0.55) !important;
+}
+
+html[saved-theme="light"] #btn-toggle-animacion {
+  background: rgba(243, 241, 236, 0.94) !important;
+  color: #1c1a17 !important;
+  border-color: rgba(28, 26, 23, 0.28) !important;
+}
 
 // --- EXPLORADOR SIEMPRE EN "V" ---
 .explorer > .explorer-toggle,
