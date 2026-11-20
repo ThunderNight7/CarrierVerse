@@ -150,11 +150,18 @@ const scriptVinotinto = `
       if (el instanceof HTMLCanvasElement) { canvas = el; ctx = canvas.getContext("2d"); resize(); }
     }
 
+    const ICONO_ANIM_ON =
+      '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 3l1.9 5.1L19 10l-5.1 1.9L12 17l-1.9-5.1L5 10l5.1-1.9L12 3z"/><path d="M19 16l.9 2.1L22 19l-2.1.9L19 22l-.9-2.1L16 19l2.1-.9L19 16z"/></svg>';
+
+    const ICONO_ANIM_OFF =
+      '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 3l1.9 5.1L19 10l-5.1 1.9L12 17l-1.9-5.1L5 10l5.1-1.9L12 3z" opacity="0.45"/><line x1="3" y1="3" x2="21" y2="21"/></svg>';
+
     function actualizarBotonAnimacionUI() {
       const btn = document.getElementById("btn-toggle-animacion");
       if (!btn) return;
       btn.setAttribute("aria-pressed", String(animacionActiva));
-      btn.textContent = animacionActiva ? "Animación: ON" : "Animación: OFF";
+      btn.setAttribute("title", animacionActiva ? "Animación activada (clic para pausar)" : "Animación pausada (clic para activar)");
+      btn.innerHTML = animacionActiva ? ICONO_ANIM_ON : ICONO_ANIM_OFF;
       btn.style.borderColor = animacionActiva ? "rgba(255, 77, 109, 0.9)" : "rgba(140, 135, 126, 0.45)";
     }
 
@@ -184,7 +191,7 @@ const scriptVinotinto = `
         btn.type = "button";
         btn.setAttribute("aria-label", "Activar o desactivar animación de fondo");
         btn.style.cssText =
-          "position:fixed;bottom:18px;right:20px;z-index:1200;padding:8px 13px;border-radius:999px;border:1.5px solid rgba(140,135,126,0.45);font-size:0.82rem;font-weight:600;line-height:1.1;cursor:pointer;display:inline-flex;align-items:center;gap:6px;box-shadow:0 4px 14px rgba(0,0,0,0.25);backdrop-filter:blur(6px);transition:transform 0.16s ease,border-color 0.16s ease,background-color 0.16s ease;";
+          "position:fixed;top:16px;left:72px;z-index:1200;width:42px;height:42px;padding:0;border-radius:10px;border:1.5px solid rgba(140,135,126,0.45);cursor:pointer;display:inline-flex;align-items:center;justify-content:center;box-shadow:0 4px 14px rgba(0,0,0,0.35);backdrop-filter:blur(6px);transition:transform 0.16s ease,border-color 0.16s ease,background-color 0.16s ease;";
 
         btn.addEventListener("click", (ev) => {
           ev.preventDefault();
@@ -192,7 +199,7 @@ const scriptVinotinto = `
           setAnimacionesActivas(!animacionActiva);
         });
 
-        (document.getElementById("quartz-body") || document.body).append(btn);
+        (document.getElementById("quartz-body") || document.body).prepend(btn);
       }
 
       document.body.classList.toggle("animaciones-activas", animacionActiva);

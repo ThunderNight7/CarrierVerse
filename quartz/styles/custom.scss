@@ -167,10 +167,17 @@ body.animaciones-activas #ascuas-canvas {
 html[saved-theme="dark"] #ascuas-canvas { mix-blend-mode: screen; }
 html[saved-theme="light"] #ascuas-canvas { mix-blend-mode: normal; opacity: 0.88; }
 
-// --- BOTÓN ANIMACIÓN ON/OFF ---
+// --- BOTÓN ANIMACIÓN ON/OFF CON ÍCONOS ---
 #btn-toggle-animacion {
+  svg {
+    width: 20px;
+    height: 20px;
+    display: block;
+    transition: transform 0.2s ease, opacity 0.2s ease;
+  }
+
   &:hover {
-    transform: translateY(-1px);
+    transform: scale(1.06);
   }
 
   &:active {
@@ -182,12 +189,14 @@ html[saved-theme="dark"] #btn-toggle-animacion {
   background: rgba(20, 18, 22, 0.88) !important;
   color: #f4f1f3 !important;
   border-color: rgba(255, 77, 109, 0.55) !important;
+  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.38) !important;
 }
 
 html[saved-theme="light"] #btn-toggle-animacion {
   background: rgba(243, 241, 236, 0.94) !important;
   color: #1c1a17 !important;
   border-color: rgba(28, 26, 23, 0.28) !important;
+  box-shadow: 0 4px 12px rgba(28, 26, 23, 0.12) !important;
 }
 
 // --- EXPLORADOR SIEMPRE EN "V" ---
@@ -290,5 +299,23 @@ html[saved-theme="light"] {
   .explorer {
     ul ul { border-left-color: rgba(28, 26, 23, 0.18); }
     .folder-container:hover, a:hover { background-color: rgba(28, 26, 23, 0.05); }
+  }
+}
+
+// --- AJUSTE MÓVIL PARA HAMBURGUESA Y BOTÓN DE ANIMACIÓN ---
+@media (max-width: 520px) {
+  #btn-hamburguesa-barra {
+    top: 12px !important;
+    left: 12px !important;
+    width: 38px !important;
+    height: 38px !important;
+    font-size: 1.2rem !important;
+  }
+
+  #btn-toggle-animacion {
+    top: 12px !important;
+    left: 56px !important;
+    width: 38px !important;
+    height: 38px !important;
   }
 }
