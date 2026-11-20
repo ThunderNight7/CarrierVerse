@@ -2,4 +2,4 @@
 title: CarrierVerse
 ---
 
-permanentemente ganador
+permanentemente ganador as
