@@ -31,15 +31,15 @@ configuration:
         highlight: rgba(143, 159, 169, 0.15)
         textHighlight: "#fff23688"
       darkMode:
-        light: "#161618"
-        lightgray: "#393639"
-        gray: "#646464"
-        darkgray: "#d4d4d4"
-        dark: "#ebebec"
-        secondary: "#7b97aa"
-        tertiary: "#84a59d"
-        highlight: rgba(143, 159, 169, 0.15)
-        textHighlight: "#b3aa0288"
+        light: "#0c0b0d"
+        lightgray: "#2a151a"
+        gray: "#7a5c62"
+        darkgray: "#dfd5d7"
+        dark: "#f5ecee"
+        secondary: "#9e2a3b"
+        tertiary: "#6e1423"
+        highlight: rgba(110, 20, 35, 0.22)
+        textHighlight: "#7a1c2b88"
   links:
     markdownLinkResolution: shortest
   contentIndex:
