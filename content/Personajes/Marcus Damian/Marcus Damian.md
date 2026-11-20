@@ -137,3 +137,34 @@ Impulsado por su ingenuidad y su desconocimiento del mundo portador, Marcus sol�
 Al despertar en la Tierra, mareado y sin ningún recuerdo de su vida pasada, Marcus quedó bajo el cuidado de su madre, quien comenzó a mentirle sobre su origen y su identidad. Debido a su amnesia total y a la repetición constante de aquella historia día tras día, su mente terminó asumiendo esas mentiras como verdades absolutas, relegando sus recuerdos reales a simples pesadillas que lo atormentaban mientras dormía.
 
 Su infancia y adolescencia en la Tierra fueron caóticas; tras sufrir acoso por parte de otros humanos al intentar mendigar amistad, desarrolló un marcado orgullo como coraza. Todo empezó a cambiar cuando conoció a [[Michael Johnson]] a los 10 años, sin imaginar que juntos emprenderían una aventura que los marcaría durante décadas.
+
+## Poderes
+
+### [[All Power]]
+Es el poder de nacimiento de Marcus, considerado ligeramente extraño porque, aunque han existido usuarios registrados con *All Power* desde el nacimiento —quienes conforman el [[All Power Team]]—, sigue siendo un caso singular. Le permite acceder a cualquier rama de poderes, tal como su nombre lo indica (*"todo poder"*), otorgándole un arsenal completo.
+
+Al descubrirlo, Marcus desarrolló una arrogancia digna de un charlatán, pero cuando recibió el golpe de realidad de que el *All Power* equivale en esencia a *"nacer sin poderes"*, se le bajaron los humos por completo: pasó de charlatán a aprendiz de todo y maestro de nada. Como dato curioso, el nombre real de esta habilidad es [[Aura]].
+
+### [[Fuego Damian]]
+Es el fuego heredado del [[Clan Damian]], capaz de generar llamas absurdamente potentes —desde pilares de fuego y bolas pesadas que explotan al impacto hasta envolverse a sí mismo en llamas—. A diferencia del fuego ordinario, que en exceso puede quemar a quien lo usa, el *Fuego Damian* resulta peculiar porque es imposible que su usuario se autolesione.
+
+Marcus lo ha empleado muy pocas veces a lo largo de la obra —tan pocas que a veces ni distingue cuándo lo usa y cuándo no—, ya que su principal diferencia estética frente al fuego común es que libera pequeños destellos de chispas explosivas de color blanco.
+
+ ### [[Fuego Abismal]]
+Mejor conocido como **Fuego Negro**, es el fuego favorito de Marcus. Lo ha utilizado incluso más que el fuego normal no solo por estética y utilidad, sino porque, según sus propias palabras, le resulta más fácil de acceder que las llamas comunes.
+
+Este fuego fue robado por [[Gold Kabuki]] cuando recorría las puertas del [[Hades]] durante su quinta reencarnación; era tan poderoso que quedó impregnado en su alma y reaparece en cada nueva reencarnación, funcionando como una pista sutil de que Marcus es la reencarnación de Gold al inicio de la obra. Tal como indica su nombre, es totalmente negro y carente de luz: su iluminación es invisible y las llamas proyectan sombra, confundirse sutilmente con el poder de las sombras, pero ardiendo como fuego real. En potencia, ocupa el segundo lugar entre todos los fuegos, únicamente superado por el [[Solar Kusanagi]].
+
+### [[Solar Kusanagi]]
+Debido a que su madre es prima de los [[Kusanagi]], Marcus tiene acceso a este fuego. Para él es difícil de invocar porque exige canalizar su espíritu directamente en la llama, pero asegura que el esfuerzo vale cada segundo: su poder destructivo se asemeja al de un plasma devastador, presenta un tono dorado con destellos crepusculares y es tan ardiente que puede llegar a herir gravemente a su propio portador.
+### [[Tentai]]
+ Es el fuego heredado de su hermano [[Brandon Damian]] tras la muerte de este. Cuando Brandon fue derrotado por Marcus, lo forzó mediante control mental a absorber todos sus poderes, su ser y demás elementos; en ese lote llegó el *Tentai*, un fuego blanco sumamente poderoso que actúa como la contraparte exacta del *Fuego Negro* de Marcus.
+
+A diferencia del *Fuego Negro*, su luminiscencia blanca es tan intensa que puede funcionar incluso como una granada aturdidora. Su calor es comparable —aunque sutilmente inferior— al del *Fuego Negro*, con la particularidad de que no se extingue hasta que su portador decide apagarlo. Funciona como una entidad vinculada a su usuario: incluso a kilómetros, miles o millones de kilómetros de distancia, puede regular su calor o extinguirlo.
+### [[Energía Primigenia]]
+Al ser la reencarnación directa de [[Gold Kabuki]], Marcus puede acceder a esta transformación, capaz de elevar su [[Aura]] a cotas inimaginables: desde un aura salvaje hasta un aura flamígera y serena que danza con el entorno y se funde con él, volviéndolo totalmente imperceptible ante clarividentes o magias de augurio.
+
+Marcus solo recurre a este estado cuando su vida corre peligro, ya que lo agota de forma abismal —una ironía total si se considera que posee energía casi ilimitada, pero este estado no extrae su fuerza del repertorio del aura o la energía vital, sino directamente de su alma.
+
+### [[Truenos rojos]]
+Como su nombre indica, consiste en truenos de color rojo: una variante electrocinética meramente estética para Marcus. Funciona igual que cualquier electroquinesis convencional, salvo por el color; aunque al principio exige un poco más de esfuerzo que los rayos normales, Marcus se obliga a manifestarlos rojos porque le encantaron desde el instante en que los vio, hasta el punto de que hoy le resulta más fácil sacarlos rojos que de cualquier otro color.
