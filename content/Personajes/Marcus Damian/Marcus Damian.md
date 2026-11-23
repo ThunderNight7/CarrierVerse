@@ -244,12 +244,55 @@ Sin embargo, Marcus tiene dos transformaciones que son exclusivas suyas, gracias
     * [[Fake Room]]: Permite encerrar al contrincante de manera física y mental en una realidad creada por el usuario de la gema, la cual en esa habitación el usuario puede hacer lo que se le ocurra; sin embargo, no tiene la capacidad de revivir al contrincante, es decir que si se le pasa la mano y fallece el contrincante dentro de la Fake Room, fallece permanentemente.
   * [[Gema del equilibrio]]: Gema que principalmente es de Marcus, y aunque es mayor parte usada por [[Jill Miller]], esta gema guarda un enlace fuerte con Marcus, donde Jill a veces se la otorga de vez en cuando; esta gema es muy similar a la gema del poder, con la diferencia que busca el equilibrio absoluto: mientras la gema del poder no piensa en el usuario, esta gema piensa en el usuario y cómo hacer que el usuario sea igual, no mejor, igual que su contrincante.
     * [[Divide Half]]: Esta habilidad crea un campo de energía tan extenso, pero con un solo objetivo de identidad: obliga a ambos usuarios tener la misma cantidad de energía aura, es decir que si el usuario débil se enfrenta al fuerte, el fuerte le dará energía al débil para igualarlo; si ambos están igualados, tomará en cuenta el tope de energía y será igualado.
+Todas esas gemas le otorgan a Marcus la capacidad de transformarse en las siguientes formas:
 
-* [[Espada Kusanagi]]: La reliquia del [[Clan Kusanagi]]. Marcus, al ser hijo de una prima de los Kusanagi, corrió con la suerte de ser usuario de la mitad de una de las dos espadas Kusanagi: mientras [[Daru Kusanagi]] tiene una mitad, la de expulsión, Marcus tiene la otra mitad, la de absorción. Esta espada contiene la mitad del poder de [[Yamata no Orochi]], sin embargo Marcus jamás ha usado el poder de Orochi; la espada tiene peculiaridades esenciales a la hora de combatir:
-  * [[absorción]]: Como su nombre lo indica permite a la espada absorber entidades físicas y espiritualmente; normalmente todas las entidades que son absorbidas por esta espada son devoradas por Orochi quien está dentro.
-  * [[Anti-Demonio]]: La pasiva de la espada juega un papel fundamental durante las peleas contra demonios ya que sin ella los demonios tienden a regenerarse; con un corte de esta espada, ralentiza su curación; para Marcus puede acabar con demonios sin esta pasiva, pero con ella, es aún más eficaz su rendimiento.
-  * [[Kusanagi Wave]]: Es un corte de color morado con la propiedad de maldición; el corte es directamente un ataque base de [[Yamata no Orochi]].
+* [[Fusion Armor]]: Dependiendo de la gema, adquiere diferentes estéticas y apariencias, aunque todas comparten un mismo propósito: potenciar y proteger al usuario. Esta armadura posee dos variantes principales:
+  * [[Lite Mode]]: Es la forma visible de las [[Gemas dragones]], usada comúnmente por los demás portadores y la más recurrente en Marcus. Es necesario pasar por este estado para ejecutar al menos un ataque o habilidad de las gemas, por básica que sea, ya que constituye su manifestación física inicial. Cada gema posee su propia forma, pero destacan las dos que más han acompañado a Marcus —[[Onega]], la [[Gema del Tiempo]], y [[RED]], la [[Gema del poder]]—, aunque ha llegado a utilizarlas todas:
+    * **Muñequera de Onega:** Su manifestación es un brazalete en el brazo izquierdo que da la impresión de estar tatuado sobre la piel, de color amarillo brillante con algunos toques morados. Al utilizar una habilidad en esta forma, los tatuajes comienzan a girar o se extienden hasta el codo, dependiendo de la complejidad de la técnica.
+    * **Manoplas de RED:** Su manifestación es similar a una manopla americana que cubre únicamente los nudillos de la mano izquierda. Sin embargo, posee una segunda versión dentro de este mismo modo en la que se extiende hasta los dedos, adoptando la forma de unas garras o patas de león; Marcus suele bromear diciendo que parecen "patitas de gatito", algo que enfurece profundamente a RED.
+  * [[Charge Mode]]: Es su forma base habitual a la hora de combatir. No obstante, cuando Marcus activa este modo empleando más de una gema a la vez, se desbloquea una función exclusiva suya —o de cualquiera que posea el poder del All Power—: el [[All power Dragon]]:
+    * **Time Dragon: Charge Mode:** Es la manifestación semicompleta de la gema del tiempo. El brazalete desaparece y se extiende por todo el cuerpo envolviéndolo en una armadura morada con toques dorados; resulta cómoda para el usuario, pero está forjada con uno de los materiales más resistentes de su mundo. Varias placas se acoplan cubriendo hombros, codos, rodillas y pecho, acompañadas de un casco de silueta dracónida similar al de una motocicleta, alas de piel y una cola de dragón en la cintura.
+    * **Power Dragon: Charge Mode:** Es la manifestación semicompleta de la gema del poder. La manopla se transforma en garras de león y despliega una armadura cómoda pero sumamente resistente de color verde con detalles amarillos, muy similar a la de un gladiador espartano. Se diferencia en que su casco —también de corte similar al de una motocicleta— incorpora una melena de león a modo de bufanda, además de una cola y púas en la espalda, los antebrazos y los hombros.
+    * **All power Dragon: Charge Mode:** Es la armadura más utilizada por Marcus por ser su forma predeterminada; a diferencia de las anteriores, a las que debía acceder de manera específica, esta se activa de forma mucho más automática. Presenta un diseño futurista de color negro con placas rígidas y uniones multicolores, mientras que el resto de su estética varía según las gemas que Marcus acople a su cuerpo:
+      * **Gema del tiempo:** Añade los tatuajes tribales de la armadura Time Dragon, pero pasando a lucir un acabado multicolor sobre las placas rígidas.
+      * **Gema del poder:** Añade la melena y las garras de león.
+      * **Gema del equilibrio:** Incorpora un peto mucho más elaborado con forma de infinito, en cuyo centro giran a toda velocidad las gemas almacenadas dentro de un núcleo con esa misma silueta.
+      * **Gema dimensional:** Añade una capa dividida en dos secciones que puede desplegarse para formar unas imponentes alas cristalinas que cambian de tonalidad con el reflejo del sol. Aunque la mayoría de las gemas permiten volar —a excepción de la gema del poder—, estas alas son especiales porque cada una de sus plumas puede dispararse como un rayo láser.
+      * **Gema de la realidad:** Añade unas botas que permiten alterar la estructura de cada segmento de la armadura para adaptarla a distintos estilos y materiales, desde una pesada armadura medieval hasta una vestimenta sumamente ligera, casi como ropa cotidiana.
+      * **Gema de la fantasía:** Añade un protector de cintura sin ninguna función ofensiva o defensiva aparente, ya que el verdadero fuerte de esta gema no radica en su imponencia física, sino en su utilidad táctica.
 
+* [[Limit Broken]]: Al alcanzar este nivel de poder, las transformaciones de las gemas se vuelven sumamente llamativas, dejando de lado la comodidad para volverse lo más ofensivas y defensivas posible. Una vez que Marcus la desbloqueó, esta forma se convirtió en su carta principal en combate, relegando el *Charge Mode* al inicio de las peleas. La estética de cada gema conserva su base, pero con diferencias marcadas:
+  * **Time Dragon: Limit Broken:** La armadura se vuelve lo bastante robusta como para asemejarse a una armadura medieval. Deja atrás los sutiles tatuajes tribales para envolver cada rincón del cuerpo en un diseño agresivo con placas similares a escamas de dragón, mientras que los guantes de dedos ovalados se convierten en garras dracónidas del mismo material.
+  * **Power Dragon: Limit Broken:** La armadura se torna aún más fornida y agresiva. Su melena asciende hasta cubrir desde la mandíbula hasta la zona parietal; los codos se alargan formando cuchillas afiladas que no estorban al usuario y sirven como espadas improvisadas en combate cuerpo a cuerpo; sus manos y antebrazos crecen hasta parecer mazas cubiertas de pinchos, y le brotan unas alas de gárgola de color rojo que, a diferencia de su versión anterior, sí le permiten volar.
+  * **All power Dragon: Limit Broken:** Al igual que en su variante anterior, cada gema aporta un detalle distinto sobre una armadura base completamente negra con placas multicolores. En este estado, Marcus despliega sus alas bicolor —negra la izquierda y blanca la derecha—, un cuerno de demonio en el lado izquierdo y la mitad de una aureola de muérdago en el derecho. Conserva buena parte de los añadidos previos con ciertas mejoras:
+    * **Gema del tiempo:** Añade tatuajes multicolores repartidos por la armadura con un patrón distinto y mucho más sutil que el anterior.
+    * **Gema del poder:** Además de las manoplas con púas y la melena —que cambia de posición—, incorpora las cuchillas en los codos.
+    * **Gema del equilibrio:** Sumado al peto, añade unos colmillos de serpiente en el casco capaces de disparar rayos.
+    * **Gema dimensional:** La capa se vuelve aún más grande y adopta los mismos colores blanco y negro de las alas de Marcus.
+    * **Gema de la realidad:** Mantiene exactamente las mismas propiedades de las botas de la fase anterior.
+    * **Gema de la fantasía:** Genera un humo denso que permite al usuario percibir absolutamente todo lo que entre en contacto con sus partículas, incluso una pequeña piedra a gran distancia.
+
+* [[Titan Armor]]: Como su nombre lo indica, es la versión colosal de la armadura, en la cual el usuario invoca y controla la forma física de la bestia sellada en el interior de la gema, alcanzando una altura superior a los 30 metros:
+  * **Time Dragon: Titan Armor:** Invoca la armadura titánica del dragón del tiempo, [[Fafnir]], con apariencia de semiquimera. Consiste en un dragón dorado con múltiples protuberancias de aspecto volcánico, una melena morada, dos imponentes alas de cuero dracónido, una enorme cola rematada en una maza esférica y unos gigantescos cuernos capaces de detener el tiempo.
+  * **Power Dragon: Titan Armor:** Invoca la armadura de [[Drakon]], una bestia dracónida con cabeza de león, melena de fuego verde, cuerpo completamente rojo cubierto de espinas, pecho peludo envuelto en llamas verdes, cola de león con la punta verde e imponentes alas de pelaje.
+  * **All power Dragon: Titan Armor:** Dado que la mayoría de estas transformaciones son dracónidas, su diseño base corresponde a un dragón de mandíbula reptiliana, alas, garras y cola, de color negro con bordados multicolores, dos grandes cuernos demoníacos y un halo de fuego. Las variaciones según las gemas activas son mínimas —como las alas cristalinas de la gema dimensional o la melena de la gema del poder—.
+
+* [[Edge Armor]]: Es una variante derivada de la *Titan Armor*, pero de tamaño algo más reducido y menos robusta. Conserva la misma estética general, con la diferencia de que elimina las protuberancias externas, como las espinas de la gema del poder.
+
+* [[All power Dragon: Titanium Armor]]: Es la armadura definitiva de las gemas, exclusiva de Marcus o de quien logre empuñar las seis al mismo tiempo, algo de lo que solo dos personas en el mundo son capaces. Esta transformación exprime al máximo el potencial de las gemas y lo fusiona con el propio poder de Marcus. Adopta la forma de un dragón monumental que integra todos los rasgos: un cuello alargado y colmillos por parte de la gema del equilibrio, melena de león por la gema del poder, cuernos colosales por la gema del tiempo, un halo de fuego propio de Marcus, alas blancas con degradado negro a modo de capa por la gema dimensional, el humo sensorial de la gema de la fantasía y las botas mutables de la gema de la realidad. Su altura base alcanza los 3 kilómetros, pudiendo escalar hasta dimensiones cósmicas de incontables miles de millones de kilómetros.
+
+* [[Espada Kusanagi]]: Reliquia del [[Clan Kusanagi]]. Al ser hijo de una prima del clan, Marcus tuvo la fortuna de convertirse en portador de la mitad de una de las dos espadas Kusanagi: mientras [[Daru Kusanagi]] posee la mitad de expulsión, Marcus empuña la mitad de absorción. Esta hoja alberga la mitad del poder de [[Yamata no Orochi]], aunque Marcus jamás ha recurrido a dicho poder. Posee tres cualidades esenciales en combate:
+  * [[Absorción]]: Permite a la espada absorber entidades tanto física como espiritualmente; por lo general, todo lo que absorbe es devorado por Orochi en su interior.
+  * [[Anti-Demonio]]: Esta pasiva resulta fundamental al enfrentar demonios, ya que frena su capacidad de regeneración con cada corte. Aunque Marcus puede derrotarlos sin ella, esta propiedad vuelve su desempeño mucho más letal y eficiente.
+  * [[Kusanagi Wave]]: Un corte proyectado de color morado con propiedades de maldición, proveniente directamente de los ataques base de [[Yamata no Orochi]].
+
+* [[Espada Bufanda]]: Un arma creada exclusivamente por y para Marcus. En reposo luce como una bufanda de textura sedosa con un toque de algodón, pero al infundirle un tipo específico de aura se endurece adoptando la forma de una espada serpiente. Aunque por su naturaleza debería emplearse como un látigo, Marcus la blande como una espada recta medieval de doble filo, pudiendo extenderla hasta un alcance máximo de 3 metros.
+
+* [[Cadenas del firmamento]]: Antiguo [[Arma portador]] de [[Brandon Damian]], que pasó a manos de Marcus tras la muerte y absorción de su hermano. Además de servir para atacar y sujetar objetivos, estas cadenas pueden envolverse en fuego y autoajustarse, oprimiendo con mayor fuerza a la víctima a medida que elevan su temperatura, mientras sus eslabones despliegan púas para incrementar el daño. Aunque Marcus solo las utilizó una vez en combate a lo largo de la obra, en ocasiones las lleva enrolladas alrededor del torso como parte de su atuendo.
+
+* [[Espada de Gold]]: Aunque es la reliquia más sagrada, importante y codiciada del mundo por haber pertenecido al mismísimo [[Gold Kabuki]], para Marcus es el arma más inútil que ha empuñado. Tiene un pico en el pomo, carece de filo en el reverso y posee unas dimensiones absurdas: mide 5 metros de largo por medio metro de grosor, ya que fue forjada para ser usada a una mano por un gigante como Gold —quien solo empleaba ambas manos en el pomo durante choques o golpes de máxima potencia—, volviéndola completamente impráctica para Marcus. Está hecha de oro nórdico y fue ensamblada por los mismos enanos que forjaron el [[Mjolnir]] de [[Thor Odin]].
+
+* [[Espada Damian]]: A pesar de su nombre, esta espada no perteneció a Kai Damian, sino a su hermano [[Yesto Damian]]. Marcus la considera lo bastante valiosa como para conservarla; aunque al principio [[Kai Damian|Kai]] se opuso por sentir que se la entregaba a su eterno rival, terminó cediéndosela con la condición de que la cuidara al comprender que Marcus continuaría el legado y era el único Damian "puro". A simple vista parece una espada común y completamente agrietada —que Marcus guarda exhibida en la sala de la [[Thunder’s Mansion]]—, pero está bañada en energía demoníaca, lo que la convierte en un arma sumamente letal contra ángeles y seres puros.
 ## Apariciones o menciones en otros libros o cómics
 
 Debido a que Marcus es la reencarnación de Gold, solamente se contarán las apariciones de Marcus —solamente la reencarnación número 47—; a pesar de que técnicamente podría considerarse cualquier aparición de Gold como aparición de Marcus como válida, aquí únicamente se tomará en cuenta Marcus:
@@ -268,50 +311,50 @@ Debido a que Marcus es la reencarnación de Gold, solamente se contarán las apa
 
 ## Epistemología o Trivia
 
-* El nombre Marcus significa "Dedicado a Marte", demostrando que Marcus está dedicado a una guerra constante tanto interna como externa.
-* El apellido Damian significa "Domador", referenciando a que Marcus está en constante dominación de sus propios genes o poderes.
-* El cumpleaños de Marcus es el 16 de agosto.
-* Marcus está comprometido con [[Jill Miller]], [[Kairu Yata]], [[Lana Brice]], [[Alisa Gordon]], [[Melanie Hills]], [[Kumi Ford]], [[Rita Yasakani]] y [[Bethany Victum]].
-* Tiene como alumnos a: [[Lars Jean]], [[Daiki Damian]], [[Cleo Victorino]] y el [[All power Team]].
-* A pesar de que Marcus tuvo un sinfín de enemigos, su enemigo que es directamente de él es [[Heiken Adams]].
-* Durante toda la obra Marcus nunca usó su 100% de poder, ni lo va a usar; eso es debido porque si pisa el 100% automáticamente muere debido a sus genes y balance de cristal.
-* El nombre Thunder Dragon viene de los medios de comunicación, donde un usuario llamó la transformación de Thunder Night —que en ese momento usaba la armadura del Limit Breaker— la llamó Thunder Dragon.
-* Marcus tiene como ideal primero salvar a los niños y luego a los padres; fue duramente criticado por ese pensar, pero a pesar de todas las críticas él mantiene y se mantiene en ese ideal.
-* Marcus no permite la violencia sin razón alguna; las únicas excepciones que se le ve es violencia para corregir.
-* Marcus considera a [[Daru Kusanagi]] como su padre adoptivo, tanto así que al final de la obra es considerado vacante para el puesto de líder del [[Clan Kusanagi]].
-* Marcus tiene la mala costumbre de comer hasta llenar sus mejillas; todas sus esposas regañan a Marcus por esa costumbre de "parecer un animal".
-* Marcus se hizo dueño de N.E.X.M. luego de amenazar a Eric con la muerte, pero Eric le propuso que N.E.X.M. saldría en un precio casi de regalo solo para él, con todas las sucursales, instalaciones, industrias y todo lo que imagina, a lo que Marcus accedería en duda, haciéndose automáticamente el portador más rico de Vectura.
-* Marcus en su tiempo libre se sube a los tejados a beber bebidas calientes y mira las nubes pasar.
-* El sitio favorito en el que a Marcus le encanta pasar el tiempo es el tejado de la torre N.E.X.M.; siendo este el edificio más alto y resistente de Vectura, tiene una vista totalmente panorámica de la zona 7.
-* Según Cleo, Marcus está bien dotado y cree que por eso tiene bastantes esposas e intentos de amoríos.
-* Las chicas, a pesar de todos los amoríos de Marcus, ellas no necesitan a Marcus para ser felices ya que se tienen entre ellas.
-* Marcus se enoja fuertemente si le dices que el All Power es básicamente nacer sin poder, ya que es aura y el aura lo tiene todo ser vivo.
-* Marcus tiene una relación extraña con el alcohol, ya que al inicio de la obra odiaba beberlo porque el sabor era muy agrio para su garganta; sin embargo, por culpa de Yata comenzó a beber con ella, aunque el alcohol pone a Marcus en un estado sumamente vulnerable.
-* El primogénito de Marcus es [[Shadow Damian]], y al finalizar la obra tiene hijos con sus esposas, llegando a un total de nueve hijos contando a Shadow.
-* A pesar de tener nueve hijos dentro de matrimonio, Marcus tiene alrededor de más de doscientos hijos en [[medieworld]]; eso es debido a que Marcus fue usado como semental en ese mundo debido a su naturaleza [[Victura]], siendo compatible entre muchas razas sin importar la raza; incluso le pagaban por ese trabajo. Extrañamente las chicas estaban a favor de eso ya que fueron convencidas por una oráculo importante de ese mundo.
-* Gracias a los hijos de Marcus en Medieworld, ese mundo poco a poco pudo unificarse, ya que un hijo de Marcus era compatible con cualquier ser vivo de ese mundo.
-* Originalmente Marcus se iba a llamar Marcus Ignis y sería la historia de un chico que maneja fuego y sería envuelto en peleas callejeras; esa idea se transformó y se volvió lo que hoy en día es conocido como [[Final Carrier]].
-* Marcus tiene muchos apodos ganados por peleas y por rumores; entre ellos están: Thunder Night, Thunder Dragon, Dios del balance, All Power Dragon, Gold y el que para él es el más importante: el escudo entre el poder de un dios y un humano. Debido a que como vidas pasadas Gold siempre jugaba con los humanos, se mezclaba entre ellos y a veces se pasaba desapercibido, pero si intentaban meterse con ellos, él intervenía y siempre ganaba.
-* A pesar de que Marcus tiene un arsenal enteramente pirocinético, el poder favorito de Marcus es la Electroquinesis por la versatilidad que puede llegar a ser.
-* De todas las chicas del Harem, con la que empatiza más —aunque no lo dice abiertamente— es con [[Alisa Gordon]].
-* Marcus cuando llegó [[Rita Yasakani]] él mismo dijo: "hasta aquí el Harem", debido a que ya se había cansado de tener diferentes chicas; aunque la naturaleza del Vectura es poliamorosa y no tiene límite de relación, la paciencia de discusiones en el hogar sí tiene límite.
-* Marcus es indirectamente culpable de la muerte y renuncia de portadores que recién comienzan en trabajos de portador de misiones, ya que Marcus acaparaba las misiones de atrapar o matar criminales.
-* Marcus indirectamente mató al padre de Alisa, [[Razor Gordon]], ya que él lo salvó de un descontrol cuando era un niño pequeño, pero un poder de Marcus de autodefensa atacaría con un veneno poderoso a Razor causándole la muerte.
-* Marcus directamente de manera implícita mató al padre y se casó con la madre de [[Lars Jean]], ya que los padres biológicos de Lars son [[Mike Adams]] y [[Rita Yasakani]].
-* La naturaleza nudista de los Vectura fue incómoda para Marcus al principio, pero luego de ver que la desnudez en ese mundo sin intención de atraer era vista de manera normal y sin crítica, eso sí, el exhibicionismo está prohibido si un Vectura joven catalogado en su raza como menor de edad lo logra ver.
-* Después del entrenamiento con los [[Three Sacred Treasure]], Marcus agarró la costumbre de dormir desnudo, incluso si [[Michael Johnson]] o [[Daniel William]] están durmiendo en la misma cama; debido a que en ese lugar donde entrenaban durmió sin prenda por más de 20 años, ahora le incomoda dormir con ella.
-* Más de una ocasión Marcus fue puesto en custodia por repetir una cultura humana en el planeta Vectura que era considerada mal, pero fue rápidamente liberado al ver su origen.
-* Marcus se enteró que [[Kai Damian]] era [[Nakajima Damian]] tras su secuestro en N.E.X.M., cosa que lo descolocaría al momento de descubrirlo.
-* Marcus y Gold discuten cada vez que pueden debido a que Marcus culpa a Gold de todos los dolores que este sufre por culpa de sus genes.
-* Marcus siempre, incluso al finalizar la obra, se siente culpable por todo lo que les hizo pasar a su equipo.
-* Cada chica del Harem representa algo en Marcus:
-  * [[Jill Miller]]: Representa la Humanidad de Marcus.
-  * [[Lana Brice]]: Representa su nacionalidad Vectura.
-  * [[Alisa Gordon]]: Representa su defensoría a los Mutantes buenos castigados injustamente.
-  * [[Kumi Ford]]: Representa su pasado como Damian.
-  * [[Kairu Yata]]: Representa su deber y su puntualidad.
-  * [[Melanie Hills]]: Representa su instinto heroico.
-  * [[Rita Yasakani]]: Representa su aceptación de errores que no puede cambiar.
-  * [[Chara Kabuki]]: Representa su pasado como Gold.
-  * [[Bethany Victum]]: Representa su nacionalidad en Medieworld.
-* Marcus usaba cualquier excusa para evitar el cargo de [[Maestro Portador]], ya que no quería llegar a ese nivel nunca, debido a que lo veía como una cadena en su garganta y jamás saldría de ese puesto a menos que muriese.
+### Etimología, simbolismo y desarrollo de concepto
+* **Nombre:** *Marcus* significa *"Dedicado a Marte"*, reflejando que su existencia está marcada por una guerra constante tanto a nivel interno como externo.
+* **Apellido:** *Damian* significa *"Domador"*, en clara referencia a su lucha permanente por mantener bajo control sus propios genes y poderes.
+* **Concepto original:** Inicialmente el personaje iba a llamarse *Marcus Ignis* y protagonizaría una historia más acotada sobre un joven que controlaba el fuego envuelto en peleas callejeras; con el tiempo esa idea evolucionó hasta convertirse en [[Final Carrier]].
+* **Significado simbólico de sus parejas:** Cada una de las mujeres de su círculo representa una faceta distinta dentro de Marcus:
+  * [[Jill Miller]]: Su humanidad.
+  * [[Lana Brice]]: Su nacionalidad en el [[Planeta Vectura]].
+  * [[Alisa Gordon]]: Su defensa hacia los mutantes inocentes castigados injustamente.
+  * [[Kumi Ford]]: Su pasado como integrante del [[Clan Damian]].
+  * [[Kairu Yata]]: Su sentido del deber y puntualidad.
+  * [[Melanie Hills]]: Su instinto heroico.
+  * [[Rita Yasakani]]: La aceptación de los errores que no puede cambiar.
+  * [[Chara Kabuki]]: Su pasado como [[Gold Kabuki|Gold]].
+  * [[Bethany Victum]]: Su vínculo y nacionalidad en [[MedieWorld]].
+
+### Datos biográficos y relaciones
+* **Cumpleaños:** 16 de agosto.
+* **Compromisos:** Está comprometido con [[Jill Miller]], [[Kairu Yata]], [[Lana Brice]], [[Alisa Gordon]], [[Melanie Hills]], [[Kumi Ford]], [[Rita Yasakani]] y [[Bethany Victum]] (además de su vínculo con [[Chara Kabuki]]).
+* **El límite del harén:** Con la llegada de [[Rita Yasakani]], el propio Marcus sentenció: *"hasta aquí el harén"*. Aunque la naturaleza de los Vectura es poliamorosa y no impone límites numéricos, su paciencia para lidiar con las discusiones domésticas sí tenía un tope.
+* **Autonomía de sus parejas:** A pesar de la magnitud de su relación, las chicas no dependen emocionalmente de Marcus para ser felices, ya que mantienen un vínculo muy fuerte entre ellas mismas.
+* **Afinidad silenciosa:** De todas las integrantes de su harén, con quien más empatiza —aunque nunca lo admita abiertamente— es con [[Alisa Gordon]].
+* **Descendencia en Vectura:** Su primogénito es [[Shadow Damian]], y al finalizar la obra suma un total de nueve hijos nacidos dentro de sus matrimonios.
+* **Descendencia en MedieWorld:** Fuera de ese núcleo, llegó a tener más de doscientos hijos en [[MedieWorld]]. Debido a su naturaleza Vectura, era genéticamente compatible con casi cualquier raza de ese mundo, por lo que fue contratado y remunerado como semental —una situación que sus parejas aceptaron tras ser convencidas por una importante oráculo local—. A largo plazo, esta descendencia permitió que las distintas especies de [[MedieWorld]] comenzaran a unificarse.
+* **Alumnos:** Ha formado a [[Lars Jean]], [[Daiki Damian]], [[Cleo Victorino]] y al [[All Power Team]].
+* **Figura paterna y sucesión:** Considera a [[Daru Kusanagi]] como su padre adoptivo, al punto de ser contemplado al final de la obra como candidato vacante para liderar el [[Clan Kusanagi]].
+* **Revelación sobre Kai:** Descubrió que [[Kai Damian]] era en realidad [[Nakajima Damian]] tras su secuestro en [[N.E.X.M]], un hallazgo que lo dejó completamente descolocado.
+
+### Poderes, apodos y código personal
+* **Enemigo directo:** Aunque enfrentó a incontables rivales, su némesis personal y directa es [[Heiken Adams]].
+* **El límite fatal del 100%:** Durante toda la obra jamás utilizó el 100% de su poder ni llegará a hacerlo, ya que alcanzar ese umbral rompería el "balance de cristal" de sus genes y le provocaría la muerte instantánea.
+* **Poder favorito:** A pesar de contar con un arsenal eminentemente pirocinético, su habilidad favorita es la electroquinesis debido a su enorme versatilidad en combate.
+* **El origen de *Thunder Dragon*:** El apodo surgió de los medios de comunicación, luego de que un usuario bautizara así la transformación de *Thunder Night* cuando lo vio combatir portando la armadura en modo [[Limit Broken]].
+* **Otros títulos y su favorito:** A lo largo de su vida acumuló apodos como *Thunder Night*, *Thunder Dragon*, *Dios del Balance*, *All Power Dragon* y *Gold*. Sin embargo, el que considera más valioso es **"el escudo entre el poder de un dios y un humano"**, nacido de las vidas pasadas en las que Gold se mezclaba desapercibido entre los humanos e intervenía cada vez que alguien intentaba abusar de ellos.
+* **Sensibilidad con el All Power:** Se molesta profundamente si alguien insinúa que el [[All Power]] equivale a "nacer sin poder" solo porque se basa en el [[Aura]] que posee todo ser vivo.
+* **Principio innegociable:** Mantiene como regla estricta salvar primero a los niños y después a los padres; pese a las duras críticas que recibió por esa postura, nunca cedió en su convicción.
+* **Postura ante la violencia:** No tolera la violencia gratuita bajo ninguna circunstancia; la única excepción que admite es el uso de la fuerza con fines correctivos.
+* **Rechazo al rango de Maestro Portador:** Siempre inventaba cualquier excusa para esquivar el título de [[Maestro Portador]], viéndolo como una cadena al cuello de la que solo podría liberarse con la muerte.
+
+### Ironías, daños colaterales y costumbres
+* **Dueño de N.E.X.M. por intimidación:** Tras amenazar de muerte a Eric, este le ofreció venderle toda la corporación [[N.E.X.M]] —incluyendo sucursales, industrias e instalaciones— a un precio prácticamente simbólico. Marcus aceptó entre dudas, convirtiéndose de golpe en el portador más rico del [[Planeta Vectura]].
+* **Impacto involuntario en los novatos:** Al acaparar la mayoría de los encargos de captura o eliminación de criminales, provocó indirectamente la renuncia —y en algunos casos la muerte— de muchos portadores principiantes que se quedaban sin trabajo.
+* **Tragedias cruzadas con su entorno:** De niño, al intentar salvarlo de un descontrol [[Razor Gordon]] (padre de [[Alisa Gordon]]), una habilidad de autodefensa de Marcus le inoculó un veneno letal que terminó matándolo. De forma similar, mató de manera implícita a [[Mike Adams]] y años después terminó casándose con [[Rita Yasakani]], los padres biológicos de su propio alumno [[Lars Jean]].
+* **Costumbres cotidianas:** Tiene la manía de comer hasta llenarse ambas mejillas, hábito por el cual todas sus esposas lo regañan diciéndole que *"parece un animal"*. En su tiempo libre disfruta subir a los tejados a tomar bebidas calientes mientras mira pasar las nubes, siendo su lugar predilecto la azotea de la torre [[N.E.X.M]] por su vista panorámica de la [[Zona 7]].
+* **Relación con el alcohol:** Al inicio de la historia detestaba beber porque le resultaba demasiado agrio para la garganta; sin embargo, por influencia de [[Kairu Yata|Yata]] empezó a acompañarla, pese a que el alcohol lo deja en un estado de extrema vulnerabilidad.
+* **Choque cultural y nudismo:** Al llegar a Vectura le incomodaba la naturalidad nudista de su sociedad —donde la desnudez sin intención sexual es algo cotidiano, aunque el exhibicionismo frente a menores de edad Vectura está estrictamente prohibido—. Más de una vez fue puesto bajo custodia por repetir costumbres humanas mal vistas en Vectura, aunque lo liberaban de inmediato al comprobar su origen.
+* **Hábito tras el entrenamiento:** Después de pasar más de veinte años entrenando y durmiendo sin ropa junto a los [[Three Sacred Treasure]], adquirió la costumbre de dormir desnudo incluso si comparte cama con [[Michael Johnson]] o [[Daniel William]], ya que ahora le resulta incómodo dormir vestido.
+* **Dato según Cleo:** Según [[Cleo Victorino]], Marcus está muy bien dotado físicamente, motivo al que ella atribuye que tenga tantas esposas y pretendientes.
